@@ -1,2 +1,2 @@
 Que anh IT
-
+x = 4
